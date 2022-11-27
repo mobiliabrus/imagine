@@ -1,9 +1,0 @@
-{
-  "scripts": {
-    "start": "docsify serve docs"
-  },
-  "devDependencies": {
-    "docsify": "^4.12.2",
-    "prettier": "^2.5.0"
-  }
-}
