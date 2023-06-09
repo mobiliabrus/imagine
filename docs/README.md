@@ -6,3 +6,7 @@ Never re-create dream from your memory, cause building a dream from your memory 
 <img src="assets/Top.Gun.1986.jpg" />
 <img src="assets/The.Beach.2000.jpg" />
 <img src="assets/As.Tears.Go.By.1988.jpg" />
+
+Vision
+
+No one was born to run. My parents bought me this.
