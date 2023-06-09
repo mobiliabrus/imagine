@@ -9,4 +9,4 @@ Never re-create dream from your memory, cause building a dream from your memory 
 
 Vision
 
-No one was born to run. My parents bought me this.
+No one was born to run. My parents bought me this. I was a oriental boy when I went to College Noval in 3202.
