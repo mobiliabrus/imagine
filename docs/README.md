@@ -16,3 +16,6 @@ I learnt running which is the most important skill people need to have here.
 I had a crush on a girl that her skin is white and and shiny.
 She was learning scuba diving course which others won't chose.
 I believe it's the most angelic career that she could show the beautiful underwater world to the crowd with limited activity.
+
+<img src="assets/Pulp.Fiction.1994.jpg" />
+<img src="assets/Pulp.Fiction.1994.2.jpg" />
