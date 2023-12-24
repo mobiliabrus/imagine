@@ -5,12 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
     <link rel="stylesheet" href="/theme.css" />
+    <link rel="stylesheet" href="/antd.min.css" />
     <link rel="stylesheet" href="/style.css" />
   </head>
   <body>
     <div id="app"></div>
     <script src="/init.js"></script>
     <script>
+      window.__img_repo_name__ = 'imagine';
       window.$docsify = {
         loadNavbar: false,
         loadSidebar: false,
@@ -20,7 +22,8 @@
       };
     </script>
     <script src="/vue.global.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="/dayjs.min.js"></script>
+    <script src="/antd.min.js"></script>
+    <script src="/components/dist/components.umd.min.js"></script>
   </body>
 </html>
