@@ -10,7 +10,7 @@ dir:origin
 
 Never re-create dream from your memory, cause building a dream from your memory is the easiest way to lose your grasp on what's real and what is a dream.
 
-<h1>House of the rising sun</h1>
+<h3>House of the rising sun</h3>
 
 <svg class="ge-chord" width="90" height="86" xmlns="http://www.w3.org/2000/svg">
       <line class="ge-chord-line" x1="16" y1="20" x2="76" y2="20"></line>
