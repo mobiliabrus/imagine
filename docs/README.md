@@ -8,231 +8,37 @@ name:yokoono.jpg
 dir:origin
 ```
 
-```<a-img>
-name:yokoono2.jpg
-dir:origin
-```
-
 Never re-create dream from your memory, cause building a dream from your memory is the easiest way to lose your grasp on what's real and what is a dream.
 
 <h3>House of the rising sun</h3>
 
-<svg class="ge-chord" width="90" height="86" xmlns="http://www.w3.org/2000/svg">
-      <line class="ge-chord-line" x1="16" y1="20" x2="76" y2="20"></line>
-      <line class="ge-chord-line" x1="16" y1="34" x2="76" y2="34"></line>
-      <line class="ge-chord-line" x1="16" y1="48" x2="76" y2="48"></line>
-      <line class="ge-chord-line" x1="16" y1="62" x2="76" y2="62"></line>
-      <line class="ge-chord-line" x1="16" y1="76" x2="76" y2="76"></line>
-      <line class="ge-chord-line" x1="16" y1="20" x2="16" y2="76"></line>
-      <line class="ge-chord-line" x1="28" y1="20" x2="28" y2="76"></line>
-      <line class="ge-chord-line" x1="40" y1="20" x2="40" y2="76"></line>
-      <line class="ge-chord-line" x1="52" y1="20" x2="52" y2="76"></line>
-      <line class="ge-chord-line" x1="64" y1="20" x2="64" y2="76"></line>
-      <line class="ge-chord-line" x1="76" y1="20" x2="76" y2="76"></line>
-      <g class="ge-chord-point">
-        <circle
-          cx="40"
-          cy="41"
-          r="6"
-          stroke="none"
-          fill="#555555"
-          data-darkreader-inline-stroke=""
-          style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc"
-          data-darkreader-inline-fill=""
-        ></circle>
-        <text x="40" y="44.5">2</text>
-      </g>
-      <g class="ge-chord-point">
-        <circle
-          cx="52"
-          cy="41"
-          r="6"
-          stroke="none"
-          fill="#555555"
-          data-darkreader-inline-stroke=""
-          style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc"
-          data-darkreader-inline-fill=""
-        ></circle>
-        <text x="52" y="44.5">3</text>
-      </g>
-      <g class="ge-chord-point">
-        <circle
-          cx="64"
-          cy="27"
-          r="6"
-          stroke="none"
-          fill="#555555"
-          data-darkreader-inline-stroke=""
-          style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc"
-          data-darkreader-inline-fill=""
-        ></circle>
-        <text x="64" y="30.5">1</text>
-      </g>
-      <text class="ge-chord-name" font-size="13" x="46" y="15.333333333333332">Am</text>
-      <text class="ge-chord-min" x="4" y="9.5"></text>
-      <text class="ge-chord-max" x="4" y="9.5"></text></svg>
+<div class="ge-previewer-body-container"><div class="ge-chord-groups"><svg class="ge-chord" width="90" height="86" xmlns="http://www.w3.org/2000/svg"><line class="ge-chord-line" x1="16" y1="20" x2="76" y2="20"></line><line class="ge-chord-line" x1="16" y1="34" x2="76" y2="34"></line><line class="ge-chord-line" x1="16" y1="48" x2="76" y2="48"></line><line class="ge-chord-line" x1="16" y1="62" x2="76" y2="62"></line><line class="ge-chord-line" x1="16" y1="76" x2="76" y2="76"></line><line class="ge-chord-line" x1="16" y1="20" x2="16" y2="76"></line><line class="ge-chord-line" x1="28" y1="20" x2="28" y2="76"></line><line class="ge-chord-line" x1="40" y1="20" x2="40" y2="76"></line><line class="ge-chord-line" x1="52" y1="20" x2="52" y2="76"></line><line class="ge-chord-line" x1="64" y1="20" x2="64" y2="76"></line><line class="ge-chord-line" x1="76" y1="20" x2="76" y2="76"></line><g class="ge-chord-point"><circle cx="40" cy="41" r="6" stroke="none" fill="#555555"></circle><text x="40" y="44.5">2</text></g><g><line class="ge-chord-line" x1="12" y1="16" x2="20" y2="24"></line><line class="ge-chord-line" x1="20" y1="16" x2="12" y2="24"></line></g><g class="ge-chord-point"><circle cx="52" cy="41" r="6" stroke="none" fill="#555555"></circle><text x="52" y="44.5">3</text></g><g class="ge-chord-point"><circle cx="64" cy="27" r="6" stroke="none" fill="#555555"></circle><text x="64" y="30.5">1</text></g><text class="ge-chord-name" font-size="13" x="46" y="15.333333333333332">Am</text><text class="ge-chord-min" x="4" y="9.5"></text><text class="ge-chord-max" x="4" y="9.5"></text></svg><svg class="ge-chord" width="90" height="86" xmlns="http://www.w3.org/2000/svg"><line class="ge-chord-line" x1="16" y1="20" x2="76" y2="20"></line><line class="ge-chord-line" x1="16" y1="34" x2="76" y2="34"></line><line class="ge-chord-line" x1="16" y1="48" x2="76" y2="48"></line><line class="ge-chord-line" x1="16" y1="62" x2="76" y2="62"></line><line class="ge-chord-line" x1="16" y1="76" x2="76" y2="76"></line><line class="ge-chord-line" x1="16" y1="20" x2="16" y2="76"></line><line class="ge-chord-line" x1="28" y1="20" x2="28" y2="76"></line><line class="ge-chord-line" x1="40" y1="20" x2="40" y2="76"></line><line class="ge-chord-line" x1="52" y1="20" x2="52" y2="76"></line><line class="ge-chord-line" x1="64" y1="20" x2="64" y2="76"></line><line class="ge-chord-line" x1="76" y1="20" x2="76" y2="76"></line><g class="ge-chord-point"><circle cx="28" cy="55" r="6" stroke="none" fill="#555555"></circle><text x="28" y="58.5">3</text></g><g class="ge-chord-point"><circle cx="40" cy="41" r="6" stroke="none" fill="#555555"></circle><text x="40" y="44.5">2</text></g><g class="ge-chord-point"><circle cx="64" cy="27" r="6" stroke="none" fill="#555555"></circle><text x="64" y="30.5">1</text></g><text class="ge-chord-name" font-size="13" x="46" y="15.333333333333332">C</text><g><line class="ge-chord-line" x1="12" y1="16" x2="20" y2="24"></line><line class="ge-chord-line" x1="20" y1="16" x2="12" y2="24"></line></g><text class="ge-chord-min" x="4" y="9.5"></text><text class="ge-chord-max" x="4" y="9.5"></text></svg><svg class="ge-chord" width="90" height="86" xmlns="http://www.w3.org/2000/svg"><line class="ge-chord-line" x1="16" y1="20" x2="76" y2="20"></line><line class="ge-chord-line" x1="16" y1="34" x2="76" y2="34"></line><line class="ge-chord-line" x1="16" y1="48" x2="76" y2="48"></line><line class="ge-chord-line" x1="16" y1="62" x2="76" y2="62"></line><line class="ge-chord-line" x1="16" y1="76" x2="76" y2="76"></line><line class="ge-chord-line" x1="16" y1="20" x2="16" y2="76"></line><line class="ge-chord-line" x1="28" y1="20" x2="28" y2="76"></line><line class="ge-chord-line" x1="40" y1="20" x2="40" y2="76"></line><line class="ge-chord-line" x1="52" y1="20" x2="52" y2="76"></line><line class="ge-chord-line" x1="64" y1="20" x2="64" y2="76"></line><line class="ge-chord-line" x1="76" y1="20" x2="76" y2="76"></line><g class="ge-chord-point"><circle cx="52" cy="41" r="6" stroke="none" fill="#555555"></circle><text x="52" y="44.5">1</text></g><g class="ge-chord-point"><circle cx="64" cy="55" r="6" stroke="none" fill="#555555"></circle><text x="64" y="58.5">3</text></g><g class="ge-chord-point"><circle cx="76" cy="41" r="6" stroke="none" fill="#555555"></circle><text x="76" y="44.5">2</text></g><text class="ge-chord-name" font-size="13" x="46" y="15.333333333333332">D</text><g><line class="ge-chord-line" x1="12" y1="16" x2="20" y2="24"></line><line class="ge-chord-line" x1="20" y1="16" x2="12" y2="24"></line></g><g><line class="ge-chord-line" x1="24" y1="16" x2="32" y2="24"></line><line class="ge-chord-line" x1="32" y1="16" x2="24" y2="24"></line></g><text class="ge-chord-min" x="4" y="9.5"></text><text class="ge-chord-max" x="4" y="9.5"></text></svg><svg class="ge-chord" width="90" height="86" xmlns="http://www.w3.org/2000/svg"><line class="ge-chord-line" x1="16" y1="20" x2="76" y2="20"></line><line class="ge-chord-line" x1="16" y1="34" x2="76" y2="34"></line><line class="ge-chord-line" x1="16" y1="48" x2="76" y2="48"></line><line class="ge-chord-line" x1="16" y1="62" x2="76" y2="62"></line><line class="ge-chord-line" x1="16" y1="76" x2="76" y2="76"></line><line class="ge-chord-line" x1="16" y1="20" x2="16" y2="76"></line><line class="ge-chord-line" x1="28" y1="20" x2="28" y2="76"></line><line class="ge-chord-line" x1="40" y1="20" x2="40" y2="76"></line><line class="ge-chord-line" x1="52" y1="20" x2="52" y2="76"></line><line class="ge-chord-line" x1="64" y1="20" x2="64" y2="76"></line><line class="ge-chord-line" x1="76" y1="20" x2="76" y2="76"></line><g class="ge-chord-point"><circle cx="40" cy="55" r="6" stroke="none" fill="#555555"></circle><text x="40" y="58.5">3</text></g><g class="ge-chord-point"><circle cx="52" cy="41" r="6" stroke="none" fill="#555555"></circle><text x="52" y="44.5">2</text></g><g class="ge-chord-barre"><line x1="64" y1="27" x2="76" y2="27" stroke-width="6"></line><circle cx="70" cy="27" r="6"></circle><text x="70" y="30.5">1</text></g><g><line class="ge-chord-line" x1="12" y1="16" x2="20" y2="24"></line><line class="ge-chord-line" x1="20" y1="16" x2="12" y2="24"></line></g><g><line class="ge-chord-line" x1="24" y1="16" x2="32" y2="24"></line><line class="ge-chord-line" x1="32" y1="16" x2="24" y2="24"></line></g><text class="ge-chord-name" font-size="13" x="46" y="15.333333333333332">F</text><text class="ge-chord-min" x="4" y="9.5"></text><text class="ge-chord-max" x="4" y="9.5"></text></svg><svg class="ge-chord" width="90" height="86" xmlns="http://www.w3.org/2000/svg"><line class="ge-chord-line" x1="16" y1="20" x2="76" y2="20"></line><line class="ge-chord-line" x1="16" y1="34" x2="76" y2="34"></line><line class="ge-chord-line" x1="16" y1="48" x2="76" y2="48"></line><line class="ge-chord-line" x1="16" y1="62" x2="76" y2="62"></line><line class="ge-chord-line" x1="16" y1="76" x2="76" y2="76"></line><line class="ge-chord-line" x1="16" y1="20" x2="16" y2="76"></line><line class="ge-chord-line" x1="28" y1="20" x2="28" y2="76"></line><line class="ge-chord-line" x1="40" y1="20" x2="40" y2="76"></line><line class="ge-chord-line" x1="52" y1="20" x2="52" y2="76"></line><line class="ge-chord-line" x1="64" y1="20" x2="64" y2="76"></line><line class="ge-chord-line" x1="76" y1="20" x2="76" y2="76"></line><g class="ge-chord-point"><circle cx="28" cy="41" r="6" stroke="none" fill="#555555"></circle><text x="28" y="44.5">2</text></g><g class="ge-chord-point"><circle cx="40" cy="41" r="6" stroke="none" fill="#555555"></circle><text x="40" y="44.5">3</text></g><g class="ge-chord-point"><circle cx="52" cy="27" r="6" stroke="none" fill="#555555"></circle><text x="52" y="30.5">1</text></g><text class="ge-chord-name" font-size="13" x="46" y="15.333333333333332">E</text><text class="ge-chord-min" x="4" y="9.5"></text><text class="ge-chord-max" x="4" y="9.5"></text></svg></div><section class="ge-previewer-section"><svg class="ge-tabp" width="450" height="75" xmlns="http://www.w3.org/2000/svg"><line class="ge-tabp-line" x1="1" y1="20" x2="449" y2="20"></line><line class="ge-tabp-line" x1="1" y1="30" x2="449" y2="30"></line><line class="ge-tabp-line" x1="1" y1="40" x2="449" y2="40"></line><line class="ge-tabp-line" x1="1" y1="50" x2="449" y2="50"></line><line class="ge-tabp-line" x1="1" y1="60" x2="449" y2="60"></line><line class="ge-tabp-line" x1="1" y1="70" x2="449" y2="70"></line><line class="ge-tabp-line" x1="1" y1="20" x2="1" y2="70"></line><line class="ge-tabp-line" x1="449" y1="20" x2="449" y2="70"></line><line class="ge-tabp-line" x1="88.11111111111111" y1="20" x2="88.11111111111111" y2="70"></line><line class="ge-tabp-line" x1="175.22222222222223" y1="20" x2="175.22222222222223" y2="70"></line><line class="ge-tabp-line" x1="262.33333333333337" y1="20" x2="262.33333333333337" y2="70"></line><line class="ge-tabp-line" x1="349.44444444444446" y1="20" x2="349.44444444444446" y2="70"></line><g class="ge-tabp-number"><circle cx="50.77777777777777" cy="20" r="5"></circle><text x="50.77777777777777" y="23">0</text></g><g class="ge-tabp-number"><circle cx="137.8888888888889" cy="20" r="5"></circle><text x="137.8888888888889" y="23">0</text></g><g class="ge-tabp-number"><circle cx="225" cy="20" r="5"></circle><text x="225" y="23">2</text></g><g class="ge-tabp-number"><circle cx="312.1111111111111" cy="20" r="5"></circle><text x="312.1111111111111" y="23">1</text></g><g class="ge-tabp-number"><circle cx="399.2222222222222" cy="20" r="5"></circle><text x="399.2222222222222" y="23">0</text></g><g class="ge-tabp-number"><circle cx="63.22222222222223" cy="30" r="5"></circle><text x="63.22222222222223" y="33">1</text></g><g class="ge-tabp-number"><circle cx="150.33333333333331" cy="30" r="5"></circle><text x="150.33333333333331" y="33">1</text></g><g class="ge-tabp-number"><circle cx="212.55555555555554" cy="30" r="5"></circle><text x="212.55555555555554" y="33">3</text></g><g class="ge-tabp-number"><circle cx="237.44444444444446" cy="30" r="5"></circle><text x="237.44444444444446" y="33">3</text></g><g class="ge-tabp-number"><circle cx="299.66666666666663" cy="30" r="5"></circle><text x="299.66666666666663" y="33">1</text></g><g class="ge-tabp-number"><circle cx="324.55555555555554" cy="30" r="5"></circle><text x="324.55555555555554" y="33">1</text></g><g class="ge-tabp-number"><circle cx="411.66666666666663" cy="30" r="5"></circle><text x="411.66666666666663" y="33">0</text></g><g class="ge-tabp-number"><circle cx="38.33333333333333" cy="40" r="5"></circle><text x="38.33333333333333" y="43">0</text></g><g class="ge-tabp-number"><circle cx="75.66666666666666" cy="40" r="5"></circle><text x="75.66666666666666" y="43">2</text></g><g class="ge-tabp-number"><circle cx="125.44444444444446" cy="40" r="5"></circle><text x="125.44444444444446" y="43">0</text></g><g class="ge-tabp-number"><circle cx="162.77777777777777" cy="40" r="5"></circle><text x="162.77777777777777" y="43">0</text></g><g class="ge-tabp-number"><circle cx="200.1111111111111" cy="40" r="5"></circle><text x="200.1111111111111" y="43">2</text></g><g class="ge-tabp-number"><circle cx="249.8888888888889" cy="40" r="5"></circle><text x="249.8888888888889" y="43">2</text></g><g class="ge-tabp-number"><circle cx="287.2222222222222" cy="40" r="5"></circle><text x="287.2222222222222" y="43">2</text></g><g class="ge-tabp-number"><circle cx="337" cy="40" r="5"></circle><text x="337" y="43">2</text></g><g class="ge-tabp-number"><circle cx="424.1111111111111" cy="40" r="5"></circle><text x="424.1111111111111" y="43">1</text></g><g class="ge-tabp-number"><circle cx="25.888888888888886" cy="50" r="5"></circle><text x="25.888888888888886" y="53">2</text></g><g class="ge-tabp-number"><circle cx="113" cy="50" r="5"></circle><text x="113" y="53">2</text></g><g class="ge-tabp-number"><circle cx="187.66666666666669" cy="50" r="5"></circle><text x="187.66666666666669" y="53">0</text></g><g class="ge-tabp-number"><circle cx="274.7777777777778" cy="50" r="5"></circle><text x="274.7777777777778" y="53">3</text></g><g class="ge-tabp-number"><circle cx="386.7777777777778" cy="50" r="5"></circle><text x="386.7777777777778" y="53">2</text></g><g class="ge-tabp-number"><circle cx="13.444444444444443" cy="60" r="5"></circle><text x="13.444444444444443" y="63">0</text></g><g class="ge-tabp-number"><circle cx="100.55555555555554" cy="60" r="5"></circle><text x="100.55555555555554" y="63">3</text></g><g class="ge-tabp-number"><circle cx="374.33333333333337" cy="60" r="5"></circle><text x="374.33333333333337" y="63">2</text></g><g class="ge-tabp-number"><circle cx="361.8888888888889" cy="70" r="5"></circle><text x="361.8888888888889" y="73">0</text></g></svg></section><section class="ge-previewer-section"><div><p class="ge-lyrics"><span class="ge-chord-item"><span class="ge-anchor" style="width: 15px;"><span class="ge-anchor-chordname">Am</span><span> </span></span><span class="ge-extra">vvv^^^ </span></span><span class="ge-chord-item"><span class="ge-anchor" style="width: 15px;"><span class="ge-anchor-chordname">C</span><span> </span></span><span class="ge-extra">vvv^^^ </span></span><span class="ge-chord-item"><span class="ge-anchor" style="width: 15px;"><span class="ge-anchor-chordname">D</span><span> </span></span><span class="ge-extra">vvv^^^ </span></span><span class="ge-chord-item"><span class="ge-anchor" style="width: 15px;"><span class="ge-anchor-chordname">F</span><span> </span></span><span class="ge-extra">vvv^^^ </span></span><span class="ge-chord-item"><span class="ge-anchor" style="width: 15px;"><span class="ge-anchor-chordname">E</span><span> </span></span><span class="ge-extra">vvv^^^</span></span></p></div></section><section class="ge-previewer-section"><svg class="ge-tabp" width="450" height="75" xmlns="http://www.w3.org/2000/svg"><line class="ge-tabp-line" x1="1" y1="20" x2="449" y2="20"></line><line class="ge-tabp-line" x1="1" y1="30" x2="449" y2="30"></line><line class="ge-tabp-line" x1="1" y1="40" x2="449" y2="40"></line><line class="ge-tabp-line" x1="1" y1="50" x2="449" y2="50"></line><line class="ge-tabp-line" x1="1" y1="60" x2="449" y2="60"></line><line class="ge-tabp-line" x1="1" y1="70" x2="449" y2="70"></line><line class="ge-tabp-line" x1="1" y1="20" x2="1" y2="70"></line><line class="ge-tabp-line" x1="449" y1="20" x2="449" y2="70"></line><line class="ge-tabp-line" x1="86.33333333333333" y1="20" x2="86.33333333333333" y2="70"></line><line class="ge-tabp-line" x1="171.66666666666666" y1="20" x2="171.66666666666666" y2="70"></line><line class="ge-tabp-line" x1="257" y1="20" x2="257" y2="70"></line><line class="ge-tabp-line" x1="342.3333333333333" y1="20" x2="342.3333333333333" y2="70"></line><g class="ge-tabp-number"><circle cx="54.33333333333333" cy="20" r="5"></circle><text x="54.33333333333333" y="23">0</text></g><g class="ge-tabp-number"><circle cx="139.66666666666669" cy="20" r="5"></circle><text x="139.66666666666669" y="23">0</text></g><g class="ge-tabp-number"><circle cx="225" cy="20" r="5"></circle><text x="225" y="23">2</text></g><g class="ge-tabp-number"><circle cx="310.3333333333333" cy="20" r="5"></circle><text x="310.3333333333333" y="23">1</text></g><g class="ge-tabp-number"><circle cx="406.3333333333333" cy="20" r="5"></circle><text x="406.3333333333333" y="23">0</text></g><g class="ge-tabp-number"><circle cx="65" cy="30" r="5"></circle><text x="65" y="33">1</text></g><g class="ge-tabp-number"><circle cx="150.33333333333331" cy="30" r="5"></circle><text x="150.33333333333331" y="33">1</text></g><g class="ge-tabp-number"><circle cx="214.33333333333331" cy="30" r="5"></circle><text x="214.33333333333331" y="33">3</text></g><g class="ge-tabp-number"><circle cx="235.66666666666669" cy="30" r="5"></circle><text x="235.66666666666669" y="33">3</text></g><g class="ge-tabp-number"><circle cx="299.66666666666663" cy="30" r="5"></circle><text x="299.66666666666663" y="33">1</text></g><g class="ge-tabp-number"><circle cx="321" cy="30" r="5"></circle><text x="321" y="33">1</text></g><g class="ge-tabp-number"><circle cx="395.66666666666663" cy="30" r="5"></circle><text x="395.66666666666663" y="33">0</text></g><g class="ge-tabp-number"><circle cx="417" cy="30" r="5"></circle><text x="417" y="33">0</text></g><g class="ge-tabp-number"><circle cx="43.666666666666664" cy="40" r="5"></circle><text x="43.666666666666664" y="43">0</text></g><g class="ge-tabp-number"><circle cx="75.66666666666666" cy="40" r="5"></circle><text x="75.66666666666666" y="43">2</text></g><g class="ge-tabp-number"><circle cx="129" cy="40" r="5"></circle><text x="129" y="43">0</text></g><g class="ge-tabp-number"><circle cx="161" cy="40" r="5"></circle><text x="161" y="43">0</text></g><g class="ge-tabp-number"><circle cx="203.66666666666666" cy="40" r="5"></circle><text x="203.66666666666666" y="43">2</text></g><g class="ge-tabp-number"><circle cx="246.33333333333337" cy="40" r="5"></circle><text x="246.33333333333337" y="43">2</text></g><g class="ge-tabp-number"><circle cx="289" cy="40" r="5"></circle><text x="289" y="43">2</text></g><g class="ge-tabp-number"><circle cx="331.6666666666667" cy="40" r="5"></circle><text x="331.6666666666667" y="43">2</text></g><g class="ge-tabp-number"><circle cx="385" cy="40" r="5"></circle><text x="385" y="43">1</text></g><g class="ge-tabp-number"><circle cx="427.66666666666663" cy="40" r="5"></circle><text x="427.66666666666663" y="43">1</text></g><g class="ge-tabp-number"><circle cx="33" cy="50" r="5"></circle><text x="33" y="53">2</text></g><g class="ge-tabp-number"><circle cx="118.33333333333334" cy="50" r="5"></circle><text x="118.33333333333334" y="53">2</text></g><g class="ge-tabp-number"><circle cx="182.33333333333334" cy="50" r="5"></circle><text x="182.33333333333334" y="53">0</text></g><g class="ge-tabp-number"><circle cx="193" cy="50" r="5"></circle><text x="193" y="53">0</text></g><g class="ge-tabp-number"><circle cx="267.6666666666667" cy="50" r="5"></circle><text x="267.6666666666667" y="53">3</text></g><g class="ge-tabp-number"><circle cx="278.33333333333337" cy="50" r="5"></circle><text x="278.33333333333337" y="53">3</text></g><g class="ge-tabp-number"><circle cx="374.33333333333337" cy="50" r="5"></circle><text x="374.33333333333337" y="53">2</text></g><g class="ge-tabp-number"><circle cx="11.666666666666666" cy="60" r="5"></circle><text x="11.666666666666666" y="63">0</text></g><g class="ge-tabp-number"><circle cx="22.333333333333332" cy="60" r="5"></circle><text x="22.333333333333332" y="63">0</text></g><g class="ge-tabp-number"><circle cx="97" cy="60" r="5"></circle><text x="97" y="63">3</text></g><g class="ge-tabp-number"><circle cx="107.66666666666666" cy="60" r="5"></circle><text x="107.66666666666666" y="63">3</text></g><g class="ge-tabp-number"><circle cx="363.6666666666667" cy="60" r="5"></circle><text x="363.6666666666667" y="63">2</text></g><g class="ge-tabp-number"><circle cx="353" cy="70" r="5"></circle><text x="353" y="73">0</text></g></svg></section><section class="ge-previewer-section"><div><p class="ge-lyrics"><span class="ge-chord-item"><span class="ge-anchor" style="width: 15px;"><span class="ge-anchor-chordname">Am</span><span> </span></span><span class="ge-extra">v~~~^^^ </span></span><span class="ge-chord-item"><span class="ge-anchor" style="width: 15px;"><span class="ge-anchor-chordname">C</span><span> </span></span><span class="ge-extra">v~~~^^^ </span></span><span class="ge-chord-item"><span class="ge-anchor" style="width: 15px;"><span class="ge-anchor-chordname">D</span><span> </span></span><span class="ge-extra">v~~~^^^ </span></span><span class="ge-chord-item"><span class="ge-anchor" style="width: 15px;"><span class="ge-anchor-chordname">F</span><span> </span></span><span class="ge-extra">v~~~^^^ </span></span><span class="ge-chord-item"><span class="ge-anchor" style="width: 15px;"><span class="ge-anchor-chordname">E</span><span> </span></span><span class="ge-extra">vvv^^^</span></span></p></div></section></div>
 
-<svg class="ge-chord" width="90" height="86" xmlns="http://www.w3.org/2000/svg">
-      <line class="ge-chord-line" x1="16" y1="20" x2="76" y2="20"></line>
-      <line class="ge-chord-line" x1="16" y1="34" x2="76" y2="34"></line>
-      <line class="ge-chord-line" x1="16" y1="48" x2="76" y2="48"></line>
-      <line class="ge-chord-line" x1="16" y1="62" x2="76" y2="62"></line>
-      <line class="ge-chord-line" x1="16" y1="76" x2="76" y2="76"></line>
-      <line class="ge-chord-line" x1="16" y1="20" x2="16" y2="76"></line>
-      <line class="ge-chord-line" x1="28" y1="20" x2="28" y2="76"></line>
-      <line class="ge-chord-line" x1="40" y1="20" x2="40" y2="76"></line>
-      <line class="ge-chord-line" x1="52" y1="20" x2="52" y2="76"></line>
-      <line class="ge-chord-line" x1="64" y1="20" x2="64" y2="76"></line>
-      <line class="ge-chord-line" x1="76" y1="20" x2="76" y2="76"></line>
-      <g class="ge-chord-point">
-        <circle cx="28" cy="55" r="6" stroke="none" fill="#555555" data-darkreader-inline-stroke="" style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc" data-darkreader-inline-fill=""></circle>
-        <text x="28" y="58.5">3</text>
-      </g>
-      <g class="ge-chord-point">
-        <circle cx="40" cy="41" r="6" stroke="none" fill="#555555" data-darkreader-inline-stroke="" style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc" data-darkreader-inline-fill=""></circle>
-        <text x="40" y="44.5">2</text>
-      </g>
-      <g class="ge-chord-point">
-        <circle cx="64" cy="27" r="6" stroke="none" fill="#555555" data-darkreader-inline-stroke="" style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc" data-darkreader-inline-fill=""></circle>
-        <text x="64" y="30.5">1</text>
-      </g>
-      <text class="ge-chord-name" font-size="13" x="46" y="15.333333333333332">C</text>
-      <g>
-        <line class="ge-chord-line" x1="12" y1="16" x2="20" y2="24"></line>
-        <line class="ge-chord-line" x1="20" y1="16" x2="12" y2="24"></line>
-      </g>
-      <text class="ge-chord-min" x="4" y="9.5"></text>
-      <text class="ge-chord-max" x="4" y="9.5"></text></svg>
-
-<svg class="ge-chord" width="90" height="86" xmlns="http://www.w3.org/2000/svg">
-      <line class="ge-chord-line" x1="16" y1="20" x2="76" y2="20"></line>
-      <line class="ge-chord-line" x1="16" y1="34" x2="76" y2="34"></line>
-      <line class="ge-chord-line" x1="16" y1="48" x2="76" y2="48"></line>
-      <line class="ge-chord-line" x1="16" y1="62" x2="76" y2="62"></line>
-      <line class="ge-chord-line" x1="16" y1="76" x2="76" y2="76"></line>
-      <line class="ge-chord-line" x1="16" y1="20" x2="16" y2="76"></line>
-      <line class="ge-chord-line" x1="28" y1="20" x2="28" y2="76"></line>
-      <line class="ge-chord-line" x1="40" y1="20" x2="40" y2="76"></line>
-      <line class="ge-chord-line" x1="52" y1="20" x2="52" y2="76"></line>
-      <line class="ge-chord-line" x1="64" y1="20" x2="64" y2="76"></line>
-      <line class="ge-chord-line" x1="76" y1="20" x2="76" y2="76"></line>
-      <g class="ge-chord-point">
-        <circle cx="52" cy="41" r="6" stroke="none" fill="#555555" data-darkreader-inline-stroke="" style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc" data-darkreader-inline-fill=""></circle>
-        <text x="52" y="44.5">1</text>
-      </g>
-      <g class="ge-chord-point">
-        <circle cx="64" cy="55" r="6" stroke="none" fill="#555555" data-darkreader-inline-stroke="" style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc" data-darkreader-inline-fill=""></circle>
-        <text x="64" y="58.5">3</text>
-      </g>
-      <g class="ge-chord-point">
-        <circle cx="76" cy="41" r="6" stroke="none" fill="#555555" data-darkreader-inline-stroke="" style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc" data-darkreader-inline-fill=""></circle>
-        <text x="76" y="44.5">2</text>
-      </g>
-      <text class="ge-chord-name" font-size="13" x="46" y="15.333333333333332">D</text>
-      <g>
-        <line class="ge-chord-line" x1="12" y1="16" x2="20" y2="24"></line>
-        <line class="ge-chord-line" x1="20" y1="16" x2="12" y2="24"></line>
-      </g>
-      <text class="ge-chord-min" x="4" y="9.5"></text>
-      <text class="ge-chord-max" x="4" y="9.5"></text></svg>
-
-<svg class="ge-chord" width="90" height="86" xmlns="http://www.w3.org/2000/svg">
-      <line class="ge-chord-line" x1="16" y1="20" x2="76" y2="20"></line>
-      <line class="ge-chord-line" x1="16" y1="34" x2="76" y2="34"></line>
-      <line class="ge-chord-line" x1="16" y1="48" x2="76" y2="48"></line>
-      <line class="ge-chord-line" x1="16" y1="62" x2="76" y2="62"></line>
-      <line class="ge-chord-line" x1="16" y1="76" x2="76" y2="76"></line>
-      <line class="ge-chord-line" x1="16" y1="20" x2="16" y2="76"></line>
-      <line class="ge-chord-line" x1="28" y1="20" x2="28" y2="76"></line>
-      <line class="ge-chord-line" x1="40" y1="20" x2="40" y2="76"></line>
-      <line class="ge-chord-line" x1="52" y1="20" x2="52" y2="76"></line>
-      <line class="ge-chord-line" x1="64" y1="20" x2="64" y2="76"></line>
-      <line class="ge-chord-line" x1="76" y1="20" x2="76" y2="76"></line>
-      <g class="ge-chord-point">
-        <circle cx="28" cy="55" r="6" stroke="none" fill="#555555" data-darkreader-inline-stroke="" style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc" data-darkreader-inline-fill=""></circle>
-        <text x="28" y="58.5">3</text>
-      </g>
-      <g class="ge-chord-point">
-        <circle cx="40" cy="55" r="6" stroke="none" fill="#555555" data-darkreader-inline-stroke="" style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc" data-darkreader-inline-fill=""></circle>
-        <text x="40" y="58.5">4</text>
-      </g>
-      <g class="ge-chord-point">
-        <circle cx="52" cy="41" r="6" stroke="none" fill="#555555" data-darkreader-inline-stroke="" style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc" data-darkreader-inline-fill=""></circle>
-        <text x="52" y="44.5">2</text>
-      </g>
-      <g class="ge-chord-barre">
-        <line x1="16" y1="27" x2="76" y2="27" stroke-width="6"></line>
-        <circle cx="46" cy="27" r="6"></circle>
-        <text x="46" y="30.5">1</text>
-      </g>
-      <text class="ge-chord-name" font-size="13" x="46" y="15.333333333333332">F</text>
-      <text class="ge-chord-min" x="4" y="9.5"></text>
-      <text class="ge-chord-max" x="4" y="9.5"></text></svg>
-
-<svg class="ge-chord" width="90" height="86" xmlns="http://www.w3.org/2000/svg">
-      <line class="ge-chord-line" x1="16" y1="20" x2="76" y2="20"></line>
-      <line class="ge-chord-line" x1="16" y1="34" x2="76" y2="34"></line>
-      <line class="ge-chord-line" x1="16" y1="48" x2="76" y2="48"></line>
-      <line class="ge-chord-line" x1="16" y1="62" x2="76" y2="62"></line>
-      <line class="ge-chord-line" x1="16" y1="76" x2="76" y2="76"></line>
-      <line class="ge-chord-line" x1="16" y1="20" x2="16" y2="76"></line>
-      <line class="ge-chord-line" x1="28" y1="20" x2="28" y2="76"></line>
-      <line class="ge-chord-line" x1="40" y1="20" x2="40" y2="76"></line>
-      <line class="ge-chord-line" x1="52" y1="20" x2="52" y2="76"></line>
-      <line class="ge-chord-line" x1="64" y1="20" x2="64" y2="76"></line>
-      <line class="ge-chord-line" x1="76" y1="20" x2="76" y2="76"></line>
-      <g class="ge-chord-point">
-        <circle cx="28" cy="41" r="6" stroke="none" fill="#555555" data-darkreader-inline-stroke="" style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc" data-darkreader-inline-fill=""></circle>
-        <text x="28" y="44.5">2</text>
-      </g>
-      <g class="ge-chord-point">
-        <circle cx="40" cy="41" r="6" stroke="none" fill="#555555" data-darkreader-inline-stroke="" style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc" data-darkreader-inline-fill=""></circle>
-        <text x="40" y="44.5">3</text>
-      </g>
-      <g class="ge-chord-point">
-        <circle cx="52" cy="27" r="6" stroke="none" fill="#555555" data-darkreader-inline-stroke="" style="--darkreader-inline-stroke: none; --darkreader-inline-fill: #cdc7bc" data-darkreader-inline-fill=""></circle>
-        <text x="52" y="30.5">1</text>
-      </g>
-      <text class="ge-chord-name" font-size="13" x="46" y="15.333333333333332">E</text>
-      <text class="ge-chord-min" x="4" y="9.5"></text>
-      <text class="ge-chord-max" x="4" y="9.5"></text></svg>
-
-      ```
-      {meta: Original: 1=D}
-{meta: Select: 1=C}
-{meta: Capo=2}
-
-{comment: Prelude/Interlude}
+<!-- ```
 {start_of_tab}
-|-------|-------|-------|-------|
-|3------|3------|3------|3------|
-|--0---0|--0---0|--0---0|--0---0|
-|----2--|----2--|----2--|----2--|
-|3------|3------|3------|3------|
-|----0--|----0--|----0--|----0--|
+|---0--|---0--|---2--|---1--|---0--|
+|----1-|----1-|--3-3-|--1-1-|----0-|
+|--0--2|--0--0|-2---2|-2---2|-----1|
+|-2----|-2----|0-----|3-----|--2---|
+|0-----|3-----|------|------|-2----|
+|------|------|------|------|0-----|
 {end_of_tab}
 
-{comment: Main A}
-[C] I have[Em7] many many tabs[F]
-[C] Each one[Em7] is not easy to get[C]
+[Am] vvv^^^ [C] vvv^^^ [D] vvv^^^ [F] vvv^^^ [E] vvv^^^
 
-[C]With [Em7] too much [F]tears
-[C]With [Em7] too much [C]efforts
+{start_of_tab}
+|----0--|----0--|----2--|----1--|-----0--|
+|-----1-|-----1-|---3-3-|---1-1-|----0-0-|
+|---0--2|---0--0|--2---2|--2---2|---1---1|
+|--2----|--2----|00-----|33-----|--2-----|
+|00-----|33-----|-------|-------|-2------|
+|-------|-------|-------|-------|0-------|
+{end_of_tab}
 
-{comment: Main B}
-[C] I have[Em7] so many tabs[F]
-[C] Each one[Em7]is not easy to get
+[Am] v~~~^^^ [C] v~~~^^^ [D] v~~~^^^ [F] v~~~^^^ [E] vvv^^^
+``` -->
 
-[C]Hear[Em7] too many[F]songs
-[C]Play[Em7] too many[C]songs
-
-{comment: Refrain}
-{start_of_chorus}
-[Am]Sing what she listens to
-[F]Love what she loves
-[Am]la la la la～～ [C]la la la la～～
-[Am]But she never love me
-[F]Only guitar is my love
-[Am]la la la la～～ [C]la la la la～～
-{end_of_chorus}
-      ```
+```<a-img>
+name:yokoono2.jpg
+dir:origin
+```

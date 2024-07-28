@@ -1,56 +1,127 @@
 /*Lines style*/
 .ge-chord .ge-chord-line {
-    stroke-width: 0.5;
-    stroke: #333333;
+  stroke-width: 0.5;
+  stroke: #333333;
 }
 
 /*Title of this chord*/
 .ge-chord .ge-chord-name {
-    stroke: none;
-    font-family: Arial Unicode MS, Arial;
-    fill: #333333;
-    letter-spacing: 0;
-    text-anchor: middle;
+  stroke: none;
+  font-family: Arial Unicode MS, Arial;
+  fill: #333333;
+  letter-spacing: 0;
+  text-anchor: middle;
 }
 
 /*Point styles*/
 .ge-chord .ge-chord-point text {
-    stroke: none;
-    font-size: 9px;
-    font-family: Arial;
-    fill: #ffffff;
-    text-anchor: middle
+  stroke: none;
+  font-size: 9px;
+  font-family: Arial;
+  fill: #ffffff;
+  text-anchor: middle;
 }
 
 /*Barre styles*/
 .ge-chord .ge-chord-barre circle {
-    stroke: none;
-    fill: #555555;
+  stroke: none;
+  fill: #555555;
 }
 
 .ge-chord .ge-chord-barre line {
-    stroke: #555555;
-    stroke-linecap: round;
+  stroke: #555555;
+  stroke-linecap: round;
 }
 
 .ge-chord .ge-chord-barre text {
-    stroke: none;
-    font-size: 9px;
-    font-family: Arial;
-    fill: #ffffff;
-    text-anchor: middle;
+  stroke: none;
+  font-size: 9px;
+  font-family: Arial;
+  fill: #ffffff;
+  text-anchor: middle;
 }
 
 /*Max and min styles*/
 .ge-chord .ge-chord-min,
 .ge-chord .ge-chord-max {
-    stroke: none;
-    font-size: 9px;
-    font-family: Arial;
-    fill: #333333;
-    text-anchor: middle;
+  stroke: none;
+  font-size: 9px;
+  font-family: Arial;
+  fill: #333333;
+  text-anchor: middle;
 }
 
+.ge-previewer-section {
+  margin: 5px 0;
+}
 
-// WEBPACK FOOTER //
-// ./src/components/Chord/styles.css
+.ge-tabp-line {
+  stroke: #333;
+  stroke-width: 0.5;
+}
+
+.ge-tabp-number circle {
+  stroke: none;
+  fill: white;
+  stroke-width: 0;
+}
+
+.ge-tabp-number text {
+  font-size: 9px;
+  font-family: Arial;
+  fill: #333;
+  text-anchor: middle;
+  stroke: none;
+}
+
+.ge-lyrics {
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.ge-lyrics .ge-chord-item {
+  margin: 5px 0;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+/* Anchor for each character */
+.ge-lyrics .ge-anchor {
+  position: relative;
+  margin-left: 1em;
+  margin-right: 3px;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 25px;
+  line-height: 2em;
+  border-bottom: 1px solid #24292e;
+}
+
+/* Chord name above anchor */
+.ge-lyrics .ge-anchor .ge-anchor-chordname {
+  position: absolute;
+  top: -18px;
+  color: indianred;
+  letter-spacing: 1px;
+}
+
+/* Chord image above anchor */
+.ge-lyrics .ge-anchor .ge-anchor-chordimg {
+  position: absolute;
+  top: -45px;
+  left: -10px;
+  color: indianred;
+}
+
+.ge-lyrics .ge-extra {
+  display: inline-block;
+  height: 25px;
+  line-height: 2em;
+  border-bottom: 1px solid white;
+}
