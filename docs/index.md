@@ -7,9 +7,9 @@ features:
   - title: Scenes
     details: Movie Quotes & Scenes
     link: /scenes
-  - title: Chords
-    details: ...
-    link: /chords
+  - title: Portraits
+    details: 24-70mm Portrait Photography
+    link: /portraits
 ---
 
 ![imagine.jpg](/assets/imagine.jpg)

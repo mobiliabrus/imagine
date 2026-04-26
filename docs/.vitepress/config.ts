@@ -56,8 +56,11 @@ export default defineConfig({
       prev: false,
       next: false,
     },
-    
-    sidebar: [],
+
+    sidebar: [
+      { text: 'Scenes', link: '/scenes' },
+      { text: 'Portraits', link: '/portraits' },
+    ],
 
     socialLinks: [],
     
