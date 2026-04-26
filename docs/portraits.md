@@ -4,6 +4,8 @@
 import ImageWithCaption from './.vitepress/components/ImageWithCaption.vue'
 </script>
 
+Define intent, preset focal length and aperture; seek light, lock perspective with steps; fine-tune composition via zoom.
+
 ## Comparison
 
 <ImageWithCaption label="24mm vs 38mm">
