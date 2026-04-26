@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'en-UK',
   title: 'Imagine',
-  description: '',
+  description: 'Imagine documentation',
   base: '/imagine/',
   appearance: false,
 
