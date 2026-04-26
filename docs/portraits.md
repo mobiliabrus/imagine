@@ -96,7 +96,7 @@ Define intent, preset focal length and aperture; seek light, lock perspective wi
 <img src="/assets/portraits/58mmf2.8.webp" alt="58mm f/2.8" />
 </ImageWithCaption>
 
-## 80mm
+## 70mm
 
 <ImageWithCaption label="61mm f/2.8">
 <img src="/assets/portraits/61mmf2.8.webp" alt="61mm f/2.8" />
