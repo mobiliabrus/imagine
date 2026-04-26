@@ -1,10 +1,9 @@
-/*Lines style*/
+/* Custom styles for guitar chords */
 .ge-chord .ge-chord-line {
   stroke-width: 0.5;
   stroke: #333333;
 }
 
-/*Title of this chord*/
 .ge-chord .ge-chord-name {
   stroke: none;
   font-family: Arial Unicode MS, Arial;
@@ -13,7 +12,6 @@
   text-anchor: middle;
 }
 
-/*Point styles*/
 .ge-chord .ge-chord-point text {
   stroke: none;
   font-size: 9px;
@@ -22,7 +20,6 @@
   text-anchor: middle;
 }
 
-/*Barre styles*/
 .ge-chord .ge-chord-barre circle {
   stroke: none;
   fill: #555555;
@@ -41,7 +38,6 @@
   text-anchor: middle;
 }
 
-/*Max and min styles*/
 .ge-chord .ge-chord-min,
 .ge-chord .ge-chord-max {
   stroke: none;
@@ -89,7 +85,6 @@
   align-items: center;
 }
 
-/* Anchor for each character */
 .ge-lyrics .ge-anchor {
   position: relative;
   margin-left: 1em;
@@ -103,7 +98,6 @@
   border-bottom: 1px solid #24292e;
 }
 
-/* Chord name above anchor */
 .ge-lyrics .ge-anchor .ge-anchor-chordname {
   position: absolute;
   top: -18px;
@@ -111,7 +105,6 @@
   letter-spacing: 1px;
 }
 
-/* Chord image above anchor */
 .ge-lyrics .ge-anchor .ge-anchor-chordimg {
   position: absolute;
   top: -45px;
@@ -124,4 +117,12 @@
   height: 25px;
   line-height: 2em;
   border-bottom: 1px solid white;
+}
+
+/* Image styling */
+.origin-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem 0;
 }

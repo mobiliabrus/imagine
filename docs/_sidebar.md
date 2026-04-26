@@ -1,3 +1,0 @@
-- [Imagine](README.md)
-- [Vision](vision.md)
-- [Chords](chords.md)

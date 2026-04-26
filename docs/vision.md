@@ -1,5 +1,4 @@
-
-Vision
+# Vision
 
 No one was born to run. My parents bought me this. I was a oriental boy when I went to College in 3202.
 
@@ -10,52 +9,22 @@ I had a crush on a girl that her skin is white and and shiny.
 She was learning scuba diving course which others won't chose.
 I believe it's the most angelic career that she could show the beautiful underwater world to the crowd with limited activity.
 
-```<a-img>
-name:Pulp.Fiction.1994.1.jpg
-dir:origin
-```
+![Pulp.Fiction.1994.1.jpg](/assets/Pulp.Fiction.1994.1.jpg)
 
-```<a-img>
-name:Pulp.Fiction.1994.2.jpg
-dir:origin
-```
+![Pulp.Fiction.1994.2.jpg](/assets/Pulp.Fiction.1994.2.jpg)
 
-```<a-img>
-name:Parasite.2019.1.jpg
-dir:origin
-```
+![Parasite.2019.1.jpg](/assets/Parasite.2019.1.jpg)
 
-```<a-img>
-name:Parasite.2019.2.jpg
-dir:origin
-```
+![Parasite.2019.2.jpg](/assets/Parasite.2019.2.jpg)
 
-```<a-img>
-name:Parasite.2019.3.jpg
-dir:origin
-```
+![Parasite.2019.3.jpg](/assets/Parasite.2019.3.jpg)
 
-```<a-img>
-name:Parasite.2019.4.jpg
-dir:origin
-```
+![Parasite.2019.4.jpg](/assets/Parasite.2019.4.jpg)
 
-```<a-img>
-name:In.The.Heat.Of.The.Sun.1994.1.jpg
-dir:origin
-```
+![In.The.Heat.Of.The.Sun.1994.1.jpg](/assets/In.The.Heat.Of.The.Sun.1994.1.jpg)
 
-```<a-img>
-name:In.The.Heat.Of.The.Sun.1994.2.jpg
-dir:origin
-```
+![In.The.Heat.Of.The.Sun.1994.2.jpg](/assets/In.The.Heat.Of.The.Sun.1994.2.jpg)
 
-```<a-img>
-name:In.The.Heat.Of.The.Sun.1994.3.jpg
-dir:origin
-```
+![In.The.Heat.Of.The.Sun.1994.3.jpg](/assets/In.The.Heat.Of.The.Sun.1994.3.jpg)
 
-```<a-img>
-name:The.Da.Vinci.Code.2006.jpg
-dir:origin
-```
+![The.Da.Vinci.Code.2006.jpg](/assets/The.Da.Vinci.Code.2006.jpg)
