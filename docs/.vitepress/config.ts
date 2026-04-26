@@ -25,4 +25,10 @@ export default defineConfig({
       copyright: 'Copyright © 2026',
     },
   },
+
+  markdown: {
+    image: {
+      lazyLoading: true
+    },
+  },
 })
